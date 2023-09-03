@@ -1,0 +1,192 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    height: 100px;
+    width: 1300px;
+    position: relative;
+    background-color: #405b68 ;
+}
+.menu{
+    height: 150px;
+    width: 100%;
+    position: absolute;
+}
+.name{
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 50px;
+    color: white;
+    font-size: 30px;
+    letter-spacing: 5px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.menu-item{
+    margin-left: 400px;
+    margin-top: 70px;
+    font-size: 20px;
+}
+.about_me{
+    list-style: none;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.list{
+    display: inline;
+    padding: 40px;
+}
+.link{
+    text-decoration: none;
+    color: white;
+}
+.link:hover{
+    color:rgb(79, 76, 224);
+}
+.link2{
+    text-decoration: none;
+    color: white;
+}
+.link2:hover{
+    color:rgb(79, 76, 224);
+}
+.link3{
+    text-decoration: none;
+    color: white;
+}
+.link3:hover{
+    color:rgb(79, 76, 224);
+}
+.link4{
+    text-decoration: none;
+    color: white;
+}
+.link4:hover{
+    color:rgb(79, 76, 224);
+}
+.link4:visited{
+    color:rgb(57, 14, 63);
+}
+.link5{
+    text-decoration: none;
+    color: white;
+}
+.link5:hover{
+    color:rgb(79, 76, 224);
+}
+.main{
+    height: 500px;
+    width: 1300px;
+    position: relative;
+    background-color:#405b68 ;
+}
+.text-main{
+    color:rgb(57, 14, 63) ; 
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 30px;
+    margin-left: 20px;
+}
+.html{
+    margin-top: 65px;
+    margin-left: 130px;
+    position: absolute;
+}
+.html-img{
+    -webkit-transition: all 1s ease;
+    transition: all 1s ease;
+}
+.html-img:hover{
+    -webkit-transform: rotate(15deg);
+    transform: rotate(15deg);
+}
+.css{
+    margin-top: 65px;
+    margin-left: 580px;
+    position: absolute;
+}
+.css-img{
+    -webkit-transition: all 1s ease;
+    transition: all 1s ease;
+}
+.css-img:hover{
+    -webkit-transform: rotate(15deg);
+    transform: rotate(15deg);
+}
+.github{
+    margin-top: 65px;
+    margin-left: 1010px;
+    position: absolute;
+}
+.github-img{
+    -webkit-transition: all 1s ease;
+    transition: all 1s ease;
+}
+.github-img:hover{
+    -webkit-transform: rotate(15deg);
+    transform: rotate(15deg);
+}
+.bootstrap{
+    margin-top: 300px;
+    margin-left: 130px;
+    position: absolute;
+}
+.bootstrap-img{
+    -webkit-transition: all 1s ease;
+    transition: all 1s ease;
+}
+.bootstrap-img:hover{
+    -webkit-transform: rotate(15deg);
+    transform: rotate(15deg);
+}
+.WordPress{
+    margin-top: 300px;
+    margin-left: 580px;
+    position: absolute;
+}
+.WordPress-img{
+    -webkit-transition: all 1s ease;
+    transition: all 1s ease;
+}
+.WordPress-img:hover{
+    -webkit-transform: rotate(15deg);
+    transform: rotate(15deg);
+}
+.footer{
+    height: 50px;
+    width: 1300px; 
+    position: relative;
+    background-color:#405b68 ;
+}
+.text{
+    position: absolute;
+    margin-left: 480px;
+    margin-top: 15px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 7px;
+    color: white;
+}
+.text2{
+    position: absolute;
+    margin-left: 690px;
+    margin-top: 15px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 7px;
+    color: white;
+}
+.text3{
+    position: absolute;
+    margin-left: 830px;
+    margin-top: 15px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 7px;
+    color: white;
+}
+.icon{
+    position: absolute;
+    margin-left: 650px;
+    margin-top: 5px;
+}
+.icon2{
+    position: absolute;
+    margin-left: 790px;
+    margin-top: 5px;
+}

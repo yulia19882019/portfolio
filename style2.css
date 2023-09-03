@@ -1,0 +1,150 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    height: 100px;
+    width: 1300px;
+    position: relative;
+    background-color:#405b68 ;
+}
+.menu{
+    height: 150px;
+    width: 100%;
+    position: absolute;
+}
+.name{
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 50px;
+    color: white;
+    font-size: 30px;
+    letter-spacing: 5px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.menu-item{
+    margin-left: 400px;
+    margin-top: 70px;
+    font-size: 20px;
+}
+.about_me{
+    list-style: none;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.list{
+    display: inline;
+    padding: 40px;
+}
+.link{
+    text-decoration: none;
+    color: white;
+}
+.link:hover{
+    color:rgb(79, 76, 224);
+}
+.link2{
+    text-decoration: none;
+    color: white;
+}
+.link2:hover{
+    color:rgb(79, 76, 224);
+}
+.link2:visited{
+    color:rgb(57, 14, 63) ;
+}
+.link3{
+    text-decoration: none;
+    color: white;
+}
+.link3:hover{
+    color:rgb(79, 76, 224);
+}
+.link4{
+    text-decoration: none;
+    color: white;
+}
+.link4:hover{
+    color:rgb(79, 76, 224);
+}
+.link5{
+    text-decoration: none;
+    color: white;
+}
+.link5:hover{
+    color:rgb(79, 76, 224);
+}
+.main{
+    height: 500px;
+    width: 1300px;
+    position: relative;
+    background-color:#405b68 ;
+}
+.photo{ 
+    position: absolute;
+    margin-top: 40px;
+    margin-left: 850px;
+    width: 400px;
+    height: 400px;
+    border: 4px double #405b68;
+    overflow: hidden;
+    -webkit-transition: all 0.5s ease;
+            transition: all 0.5s ease
+}
+.photo:hover{
+    border-radius: 50%;
+    -webkit-transform: rotate(360deg);
+            transform: rotate(360deg);
+}
+.card{
+    position: absolute;
+    margin-left: 40px;
+    margin-top: 50px;
+}
+.card-body{
+    color: white;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 22px;
+}
+.color{
+    color: rgb(57, 14, 63);
+}
+.footer{
+    height: 50px;
+    width: 1300px; 
+    position: relative;
+    background-color:#405b68;
+}
+.text{
+    position: absolute;
+    margin-left: 480px;
+    margin-top: 15px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 7px;
+    color: white;
+}
+.text2{
+    position: absolute;
+    margin-left: 690px;
+    margin-top: 15px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 7px;
+    color: white;
+}
+.text3{
+    position: absolute;
+    margin-left:830px;
+    margin-top: 15px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 7px;
+    color: white;
+}
+.icon{
+    position: absolute;
+    margin-left: 650px;
+    margin-top: 5px;
+}
+.icon2{
+    position: absolute;
+    margin-left: 790px;
+    margin-top: 5px;
+}

@@ -1,0 +1,191 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    height: 100px;
+    width: 1300px;
+    position: relative;
+    background-color:#405b68 ;
+}
+.menu{
+    height: 150px;
+    width: 100%;
+    position: absolute;
+}
+.name{
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 50px;
+    color: white;
+    font-size: 30px;
+    letter-spacing: 5px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.menu-item{
+    margin-left: 400px;
+    margin-top: 70px;
+    font-size: 20px;
+}
+.about_me{
+    list-style: none;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.list{
+    display: inline;
+    padding: 40px;
+}
+.link{
+    text-decoration: none;
+    color: white;
+}
+.link:hover{
+    color:rgb(79, 76, 224);
+}
+.link2{
+    text-decoration: none;
+    color: white;
+}
+.link2:hover{
+    color:rgb(79, 76, 224);
+}
+.link3{
+    text-decoration: none;
+    color: white;
+}
+.link3:hover{
+    color:rgb(79, 76, 224);
+}
+.link4{
+    text-decoration: none;
+    color: white;
+}
+.link4:hover{
+    color:rgb(79, 76, 224);
+}
+.link5{
+    text-decoration: none;
+    color: white;
+}
+.link5:hover{
+    color:rgb(79, 76, 224);
+}
+.link5:visited{
+    color: rgb(57, 14, 63);
+}
+.main{
+    height: 500px;
+    width: 1300px;
+    position: relative;
+    background-color:#405b68;
+}
+.social-icons {
+    position: absolute;
+    margin-left: 1150px;
+    margin-top:200px ;
+    justify-content: right;
+  }
+   
+  .social-icons a {
+    margin: 0 10px;
+  }
+   
+  .social-icons img {
+    width: 32px;
+    height: 32px;
+    transition: transform 0.3s;
+  }
+   
+  .social-icons a:hover img {
+    transform: scale(1.2);
+  }
+  .telefon{
+    position: absolute;
+    margin-left: 1150px;
+    margin-top:100px ;
+    justify-content: right;
+  }
+  .telefon a {
+    margin: 0 10px;
+  }
+  .telefon img {
+    width: 32px;
+    height: 32px;
+    transition: transform 0.3s;
+  }
+  .telefon a:hover img {
+    transform: scale(1.2);
+  }
+  .connection{
+    margin-left:650px;
+    margin-top: 0px;
+    position: absolute;
+    font-family: 'Josefin Sans', sans-serif;
+    color: white;
+}
+.form{
+    display: block;
+    width: 400px;
+    margin-top:40px ;
+    margin-left: 0px;
+}
+.input-fieid{
+    display: block;
+    border: 1px solid rgb(57, 14, 63);
+    border-radius: 0;
+    padding: 20px 28px;
+    margin-bottom: 5px;
+    font-size: 20px;
+}
+.send-btn{
+    border: none;
+    padding: 20px 28px;
+    background-color:rgb(57, 14, 63) ;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 2s;
+}
+  .map{
+    margin-left: 50px;
+  }
+.footer{
+    height: 50px;
+    width: 1300px; 
+    position: relative;
+    background-color:#405b68 ;
+}
+.text{
+    position: absolute;
+    margin-left: 480px;
+    margin-top: 15px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 7px;
+    color: white;
+}
+.text2{
+    position: absolute;
+    margin-left: 690px;
+    margin-top: 15px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 7px;
+    color: white;
+}
+.text3{
+    position: absolute;
+    margin-left: 830px;
+    margin-top: 15px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 7px;
+    color:white;
+}
+.icon{
+    position: absolute;
+    margin-left: 650px;
+    margin-top: 5px;
+}
+.icon2{
+    position: absolute;
+    margin-left: 790px;
+    margin-top: 5px;
+}
